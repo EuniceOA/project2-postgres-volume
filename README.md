@@ -1,4 +1,4 @@
-# Project 2 — PostgreSQL Database with Docker Volume (Assignment 2)
+# Project 2 — PostgreSQL Database with Docker Volume 
 
 ## Overview
 This project demonstrates running a PostgreSQL container with a Docker volume to persist data.
